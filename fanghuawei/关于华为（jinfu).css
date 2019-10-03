@@ -1,0 +1,221 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0 auto; padding:0px; list-style:none; outline:none;	border:0; background:none; font-family:"微软雅黑";}
+body {
+  position: relative;
+  background: #fff;
+  line-height: 1.625;
+  font-weight: normal;
+  color: #282828;
+  font-size: 16px;
+  font-family: "AkkuratPro-Regular", Helvetica, Arial, sans-serif;
+}
+.top{width:100%; 
+	 height:60px;
+	 background:#FFF;
+	 box-shadow:0px -46px 107px -8px;}
+.topA{width:1282px;
+	  height:44px;
+	  margin:0 auto;	 
+	  background:#FFF;}
+.topA li{float:left;
+		width:206px;
+		height:40px;
+		margin-top:15px;
+		margin-left:72px;}
+.topA1{ width: 30px;
+    height: 42px;
+    background: url(img/sprite.png);
+    background-position: -552px 165px;
+    display: inline-block;
+    float: left;}
+.topA2{width:30px;
+    height:34px;
+    background: url(img/sprite.png);
+    background-position:-551px 199px;
+    display: inline-block;
+	float:left;}
+.topA a{height:40px;
+		width:20px;
+		color:#333;
+		text-decoration:none;}
+.topA a:hover{color:#F00;}
+.box{width:1147px; 
+	 height:2515px; }
+.one{width:100%; 
+	height:230px;
+	background:#59c8d5;}
+.oneA{ width:1150px;
+	 height:200px;
+	 border:1px solid #59c8d5;}
+.two{width:1200px; 
+	height:500px;}
+.twoA{width:550px;
+	  height:400px;
+	  margin-top:50px;
+	  font-size:18px;
+	  text-indent:2em;
+	  line-height:30px;
+	  font-weight:520;float:left;}
+.twoB{width:550px;
+	  height:400px;
+	  margin-top:50px;
+	  font-size:18px;
+	  text-indent:2em;
+	  line-height:30px;
+	  font-weight:520;
+	  margin-left:90px;float:left;}
+.three{width:1200px;
+		height:450px;}
+.three h1{ float:left;}
+.three h4{ float:right;
+  	color:#333; font-size:27px;}
+.three a:hove{ margin-left:10px; float:left;}
+.threeA{width:1020px;
+	height:200px;
+	border:1px solid #CCC;
+	box-shadow:0px 0px 1px 0px;
+	position:relative;
+    left: 19px;
+    top: 62px;
+	clear:both;}
+.threeA dl{width:338px;
+margin-top:20px;
+	height:158px;
+	float:left;
+	border-left:1px solid #CCC;
+}
+.threeA dd{width:178px;
+		   height:35px;
+		   font-size:18px;}
+.threeA dt{ width: 178px;
+    height: 60px;
+    color: #00ccff;
+    font-size: 47px;
+	    font-weight: 300;}
+
+.four{width:1200px;
+	  height:1550px;}
+.wz{width:1200px; 
+	 height:70px;}
+.wz h1{ float:left;
+font-size:38px;
+	 font-weight:900;}
+.four dl{ float:left;
+	 width:314px;
+	 height:510px;
+	 margin:0px 33px;}
+.four dd{ background:#dde6ed;
+    width: 216px;
+    height:100px;
+    padding: 0px 50px}
+.four dt{width:314px;
+		height:180px;}
+.four a:hover{ margin-left:-30px;}
+
+	 
+.six{width:100%;
+	  height:700px;
+	 border:1px solid #FFF;
+	 background:#f0f0f0;}
+.sixBox{width:1082px;
+	    height:678px;
+		margin-top:60px;} 
+.sixBox a{color:#000;}	
+#sixT{width:1200px;
+	  height:335px;}
+.sixT1{width:290px;
+	  height:335px;
+	  float:left;}
+.sixT2{width:290px;
+	  height:335px;;
+	  float:left;}
+.sixT3{width:290px;
+	  height:335px;
+	  float:left;}
+.sixT4{width:290px;
+	  height:335px;
+	  float:left;}
+.sixT5{width:40px;
+	  height:335px;
+	  float:left;}
+ .weixin{background:url(img/sprite.png);
+background-position: 4px 40px;
+    width: 42px;
+    height: 40px;}
+.in{background:url(img/sprite.png);
+		background-position:-37px 38px;
+    width: 42px;
+    height: 40px;}
+.wenhao{background:url(img/sprite.png);
+		    background-position: -77px 45px;
+    width: 40px;
+    height: 40px;;}
+	  
+#sixC{width:1200px;
+	  height:145px;}
+	  
+.sixC1{width:290px;
+	  height:145px;
+	  float:left;}
+.sixC2{width:290px;
+	  height:145px;
+	  float:left;}
+.sixC3{width:290px;
+	  height:145px;
+	  float:left;}
+.sixC4{width:290px;
+	  height:145px;
+	  float:left;}
+.sixC5{width:40px;
+	  height:145px;
+	  float:left;}
+	  
+#sixB{width:1200px;
+	 height:150px;}
+	
+.sixB1{width:290px;
+	  height:150px;
+	  float:left;}
+.sixB2{width:290px;
+	  height:150px;
+	  float:left;}
+.sixB3{width:290px;
+	  height:150px;
+	  float:left;}
+.sixB4{width:290px;
+	  height:150px;
+	  float:left;}
+.sixB5{width:40px;
+	  height:150px;
+	  float:left;}
+.foot{width:100%; 
+	 height:40px; 
+}
+
+.clearfix{
+	font-size:16px;
+	line-height:39px;
+}
+.iconfont-flash{
+	font-size:20px;
+	line-height:46px;
+	color:#000;
+}
+.clearfix a:link{text-decoration:none; color:#000;}
+.clearfix a:hover{text-decoration:underline;}
+.external-link1{ margin-top:49px;}
+.footer{width:100%;
+	 height:40px; 
+	 background:#000;
+	 }
+.footer p{float:left;
+		  color:#FFF;
+		  margin-top:10px;}
+.footerbox{
+	width:1115px;
+	height:40px;
+	margin:0 auto;
+	}
+.iconfont-flash a{color:#000;text-decoration:none;}
+.iconfont-flash a:hover{text-decoration:underline;}

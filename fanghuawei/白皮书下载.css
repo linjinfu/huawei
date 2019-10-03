@@ -1,0 +1,153 @@
+@charset "utf-8";
+/* CSS Document */
+.top{ margin:0 auto;
+	  width:90%;
+	  height:300px;
+	  border:1px solid #CC6;
+	  background:#CC6;
+	  position:relative;}
+.top h1{ color:#FFF;
+		 margin-top:50px;
+		 margin-left:37%;
+		 font-size:65px;}
+.top p{ margin-top:50px;
+		margin-left:35%;
+		color:#FFF;
+		font-size:24px;}
+
+.center{ width:70%;
+	  	 height:600px;
+		 border:1px solid #fff;
+		 position:absolute;
+		 top:325px;
+		 left:200px;}
+.centerL{ border:1px solid #FFF;
+		  width:600px;
+		  height:500px;
+		  float:left;}
+.centerLone{ margin-top:20px;
+		 	 margin-left:40px;
+			 height:60px;
+			 width:100px;
+			 float:left;}
+.centerLone td{ display:inline-block;
+			 	font-size:25px;
+			 	color:#666;
+			 	float:left;}
+.centerLone .right{ width:180px;
+				 	height:50px;}
+.centerLtwo{ margin-top:20px;
+		 	 margin-right:80px;
+			 height:60px;
+			 width:200px;
+			 float:right;}
+.centerLtwo td{ display:inline-block;
+			 	font-size:25px;
+			 	color:#666;
+			 	float:left;}
+.centerLtwo .right{ width:180px;
+				 	height:50px;}
+.centerLthree{ margin-top:20px;
+		 	   margin-left:40px;
+			   height:60px;
+			   width:200px;
+			   float:left;}
+.centerLthree td{ display:inline-block;
+			 	  font-size:25px;
+			 	  color:#666;
+			 	  float:left;}
+.centerLthree .right{ width:460px;
+				 	  height:50px;}
+.centerLfor{ margin-left:40px;
+			 margin-top:130px;
+			 height:60px;
+			 width:200px;
+			 float:left;}
+.centerLfor td{ display:inline-block;
+			 	font-size:25px;
+			 	color:#666;
+			 	float:left;}
+.centerLfor .right{ width:460px;
+				    height:50px;}
+
+.centerR{ border:1px solid #FFF;
+		  width:400px;
+		  height:500px;
+		  float:right;}
+.centerRone{ margin-top:20px;
+		 	 margin-left:40px;
+			 height:60px;
+			 width:200px;
+			 float:left;}
+.centerRone td{ display:inline-block;
+			 	  font-size:25px;
+			 	  color:#666;
+			 	  float:left;}
+.centerRone .right{ width:460px;
+				 	  height:50px;}
+.centerRtwo{ margin-left:40px;
+			 margin-top:20px;
+			 height:60px;
+			 width:200px;
+			 float:left;}
+.centerRtwo td{ display:inline-block;
+			 	font-size:25px;
+			 	color:#666;
+			 	float:left;}
+.centerRtwo .right{ width:460px;
+				    height:50px;}
+.centerRthree{ margin-top:20px;
+		 	   margin-left:40px;
+			   height:60px;
+			   width:200px;
+			   float:left;}
+.centerRthree td{ display:inline-block;
+			 	  font-size:25px;
+			 	  color:#666;
+			 	  float:left;}
+.centerRthree .right{ width:460px;
+				 	  height:50px;}
+.centerRfour{ margin-left:40px;
+			  margin-top:20px;
+			  height:60px;
+			  width:200px;
+			  float:left;}
+.centerRfour td{ display:inline-block;
+			 	 font-size:25px;
+			 	 color:#666;
+			 	 float:left;}
+.centerRfour .right{ width:460px;
+				     height:50px;}
+.footA{ width:77%;
+	    height:90px;
+	    margin-top:-60px;
+	    position:absolute;
+	    top:870px;
+	    left:80px;}
+.footA input{ height:20px;
+			 width:20px;
+			 margin-top:30px;
+			 margin-left:170px;}
+.footA p{ font-size:24px;
+		 margin-left:200px;
+		 margin-top:-25px;}
+.footB{ width:77%;
+	    height:90px;
+	    margin-top:-60px;
+	    position:absolute;
+	    top:1000px;
+	    left:140px;}
+.footB p{ font-size:24px;
+		  margin-left:200px;
+		  margin-top:-25px;}
+.footB a{ color:#000;}
+.footC a{ border:1px solid #000;
+		  position:absolute;
+		  padding:20px 50px 20px 50px;
+		  background:#F00;
+		  color:#FFF;
+		  text-decoration:none;
+	      top:1050px;
+	      left:800px;
+		  font-size:30px;}
+.footC a:hover{ background:#60F;}

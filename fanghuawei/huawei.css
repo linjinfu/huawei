@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+.zx{ width:700px; 
+	 height:400px;
+	 margin:0 auto;}
+.zx h2{ float:left;
+ font-family:"黑体";}
+.zx h4{ float:right;
+ 	font-family:"楷体";
+  	color:#333; font-size:15px;}
+.zx img{ float:right;
+	 clear:right;}
+.zx p{ float:left;
+	 clear:left;
+	 display:inline-block;
+	 font-size:12px;
+	 margin-top:20px;
+	 padding-top:30px;
+	 padding-left:15px;
+	 background:#3F3;
+	 height:225px;
+	 width:320px;
+	 color:#666;}
+.zx span{ font-size:14px;
+		font-family:"黑体";
+		color:#000;}
+.zx .a{ font-size:10px;}
+	 
+	 
+.xx{ width:700px;
+ 	 height:400px;
+	 margin:0 auto;}
+.wz{width:700px; 
+	 height:70px;}
+.xx h2{ float:left;
+	 font-family:"黑体";}
+.xx h4{ float:right;
+	 font-family:"楷体";
+	  color:#333;
+	   font-size:15px;}
+.xx dl{ float:left;
+	 padding:15px;}
+.xx dd{margin-left:0px;
+	 margin-top:0px;
+	 padding-top:25px;
+	 height:150px;
+	 width:197px;
+	 background:#3C3;}
+.xx img{ padding:0px;}
+.xx a:hover{ margin:-15px;}
+.xx span{ font-size:10px;
+	 color:#333;}

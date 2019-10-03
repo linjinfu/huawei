@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+.one{ width:900px;
+      height:930px;
+	  text-align:center;
+	  margin:0 auto;
+	  
+     }
+.one img{ width:170px;
+          height:170px;
+		  margin-bottom:27px;
+		  
+	}
+.three{ width:980px;
+        height:70px;
+	}
+
+.two{ width:542px;
+    height:800px;
+	text-align:center;
+	margin-top:150px;
+	margin:0 auto;
+	box-shadow:0px 0px 1px 0px;
+	}
+.two h1{ text-align:left;
+         font-size:38px;
+margin-left: 120px;
+		 
+	}
+.tp{ width:530px;
+     height:600px;
+	 text-align:left;
+margin-left: 120px;
+	 margin-top:10px;
+	 
+	}
+.dd{ width:300px;
+      height:30px;
+	  text-align:center;
+	  background:#F99;
+	  color:#FFF;
+	  font-size:24px;
+	  
+	}
+a{ text-decoration:underline;}
+.ss{ 
+     font-size:24px;
+	}
+.hh{
+	}
+.foot{width:90px;
+	height:25px;}
+	  .weixin{background:url(../img/sprite.png);
+background-position: 4px 40px;
+    width: 42px;
+    height: 40px;
+	float:left;}
+.in{background:url(../img/sprite.png);
+		background-position:-37px 38px;
+    width: 42px;
+    height: 40px;float:right;}

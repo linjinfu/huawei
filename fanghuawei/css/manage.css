@@ -1,0 +1,197 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{margin:0 auto; padding:0px; list-style:none; outline:none;border:0; }
+.bigbox13{width:1465px;
+		height:30px;}
+.bigbox1{ width:100%; height:30px; background:#000;}
+.bigbox1 li{ float:left; padding:0 11px;margin-top:2px; }
+.bigbox2{ color:#FFF;}
+.bigbox1 a{ display:inline-block;color:#FFF;text-decoration:none; font-size:13px;}
+.bigbox1 a:hover{ color:#F00;text-decoration:underline;}
+.bigbox11 { margin:2px 850px 2px 122px; }
+bigboximg{ margin:0 auto;}
+.top{width:100%; 
+	 height:60px;
+	 background:#FFF;
+	 box-shadow: 0px -46px 107px -8px;}
+.topA{width:1342px;
+	  height:44px;
+	  margin:0 auto;	 
+	  background:#FFF;}
+.topA li{float:left;
+		width:206px;
+		height:40px;
+		margin-top:15px;
+		margin-left:72px;}
+.topA1{ width: 30px;
+    height: 42px;
+    background: url(../img/sprite.png);
+    background-position: -552px 165px;
+    display: inline-block;
+    float: left;}
+.topA2{width:30px;
+    height:34px;
+    background: url(../img/sprite.png);
+    background-position:-551px 199px;
+    display: inline-block;
+	float:left;}
+.topA a{height:40px;
+		width:20px;
+		color:#333;
+		text-decoration:none;}
+.topA a:hover{color:#F00;}
+#head{width:100%;
+	  height:40px;
+	  border-bottom:1px solid #CCC;}
+.headA{width:1200px;
+	   height:30px;
+	   padding-top:12px;}
+.headA li{width:111px;
+		  height:30px;
+		  float:left;
+		  font-size:18px;
+		  text-decoration:none;}
+.headA li a:link{text-decoration:none;
+				color:#333;
+				font-size:18px;}
+.headA li a:hover{text-decoration:none;
+				color:#333;
+				font-size:18px;
+				border-bottom:5px solid #FB778E;}
+.box{width:1200px; 
+	height: 1230px;}
+.one{width:1200px; 
+	height:143px;}
+.oneA{ width:1200px;
+	margin-top:20px;
+	 height:140px;}
+.two{width:1200px; 
+	height:140px;}
+.two p { font-weight:600px;
+	text-indent:2em;
+    margin-top: 0px;
+    font-size: 18px;
+    line-height: 30px;
+}
+.two a{ font-size:20px;
+		color:#F77;}
+.three{width:1200px;
+		height:921px;}
+.three dl{ float:left;
+	 width:330px;
+	 height:453px;
+	 margin:0px 33px;}
+.three dd{ background:#dde6ed;
+    width: 216px;
+    height:100px;
+    padding: 0px 50px}
+.three dt{width:314px;
+		height:180px;}
+.three a:hover{ margin-left:-30px;}
+
+.six{width:100%;
+	  height:700px;
+	 border:1px solid #FFF;
+	 background:#f0f0f0;}
+.sixBox{width:1143px;
+	    height:680px;
+		margin-top:60px;} 
+.sixBox a{color:#000;}	
+#sixT{width:1200px;
+	  height:335px;}
+.sixT1{width:290px;
+	  height:335px;
+	  float:left;}
+.sixT2{width:290px;
+	  height:335px;;
+	  float:left;}
+.sixT3{width:290px;
+	  height:335px;
+	  float:left;}
+.sixT4{width:290px;
+	  height:335px;
+	  float:left;}
+.sixT5{width:40px;
+	  height:335px;
+	  float:left;}
+ .weixin{background:url(../img/sprite.png);
+background-position: 4px 40px;
+    width: 42px;
+    height: 40px;}
+.in{background:url(../img/sprite.png);
+		background-position:-37px 38px;
+    width: 42px;
+    height: 40px;}
+.wenhao{background:url(img/sprite.png);
+		    background-position: -77px 45px;
+    width: 40px;
+    height: 40px;;}
+	  
+#sixC{width:1200px;
+	  height:145px;}
+	  
+.sixC1{width:290px;
+	  height:145px;
+	  float:left;}
+.sixC2{width:290px;
+	  height:145px;
+	  float:left;}
+.sixC3{width:290px;
+	  height:145px;
+	  float:left;}
+.sixC4{width:290px;
+	  height:145px;
+	  float:left;}
+.sixC5{width:40px;
+	  height:145px;
+	  float:left;}
+	  
+#sixB{width:1200px;
+	 height:150px;}
+	
+.sixB1{width:290px;
+	  height:150px;
+	  float:left;}
+.sixB2{width:290px;
+	  height:150px;
+	  float:left;}
+.sixB3{width:290px;
+	  height:150px;
+	  float:left;}
+.sixB4{width:290px;
+	  height:150px;
+	  float:left;}
+.sixB5{width:40px;
+	  height:150px;
+	  float:left;}
+.foot{width:100%; 
+	 height:40px; 
+}
+
+.clearfix{
+	font-size:16px;
+	line-height:39px;
+}
+.iconfont-flash{
+	font-size:20px;
+	line-height:46px;
+	color:#000;
+}
+.clearfix a:link{text-decoration:none; color:#000;}
+.clearfix a:hover{text-decoration:underline;}
+.external-link1{ margin-top:49px;}
+.footer{width:100%;
+	 height:40px; 
+	 background:#000;
+	 }
+.footer p{float:left;
+		  color:#FFF;
+		  margin-top:10px;}
+.footerbox{
+	width:1160px;
+	height:40px;
+	margin:0 auto;
+	}
+.iconfont-flash a{color:#000;text-decoration:none;}
+.iconfont-flash a:hover{text-decoration:underline;}
